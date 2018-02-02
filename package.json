@@ -1,0 +1,34 @@
+{
+  "name": "cozystyle",
+  "version": "1.1.0",
+  "description": "JQuery plugin for fast style management",
+  "main": "cozystyle.js",
+  "dependencies": {
+    "gulp": "^3.9.1"
+  },
+  "devDependencies": {
+    "gulp-rename": "^1.2.2",
+    "gulp-uglify": "^3.0.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/scriptfuture/cozystyle.git"
+  },
+  "keywords": [
+    "cozystyle",
+    "jquery",
+    "plugin",
+    "gradient",
+    "rounded",
+    "edges"
+  ],
+  "author": "N. A. Reshetnikov",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/scriptfuture/cozystyle/issues"
+  },
+  "homepage": "https://github.com/scriptfuture/cozystyle#readme"
+}
